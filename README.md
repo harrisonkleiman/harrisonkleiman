@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Harrison. A Software Engineer from New York.
+Hi, my name is Harrison. A Software Developer from New York.
 
 
 ## 🌐 Socials:
